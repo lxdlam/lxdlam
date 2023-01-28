@@ -1,6 +1,6 @@
 ### Hi, there is lxdlam a.k.a. Ramen 👋 
 
-_There will be no contribution graph or something else for a while since I have less time on Github._
+_There will be no contribution graph or something else since I have less time on Github for a while ._
 
 - 🌱 I’m currently learning Rust, Elixir, OCaml and various different topics like Game development and Distributed computing.
 - 🏆 A retired competitive programming participant and a Cybersecurity enthusiast.

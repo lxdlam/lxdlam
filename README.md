@@ -1,8 +1,10 @@
 ### Hi, there is lxdlam a.k.a. Ramen 👋 
 
-- 🌱 I’m currently learning Rust, Elixir and Distributed Computing topics, also keeping track of the latest progress of C++ and Go.
-- 🏆 A retired competitive programming participant, now an enthusiast but have less time to focus on it.
-- 🎵 I'm listening: https://listenbrainz.org/user/lxdlam (Only record my mobile listen activity.)
-- 🕹️ A lifelong and passionate game player. Check my game profile at [Exophase](https://www.exophase.com/user/lxdlam/)!
+_I'm not put any graph here for now since I have less time on Github for a while._
+
+- 🌱 I’m currently learning Rust, Elixir, OCaml and various different topics like Game development and Distributed computing.
+- 🏆 A retired competitive programming participant and a Cybersecurity enthusiast.
+- 🎵 I'm listening: https://listenbrainz.org/user/lxdlam (Only record my mobile listen activity).
+- 🕹️ A lifelong and passionate game player but have less time on it. Check my game profile at [Exophase](https://www.exophase.com/user/lxdlam/)!
 - 📫 How to reach me: drop me an email at lxdlam \<at\> gmail.com or visit my blog at <https://blog.lxdlam.com> (in chinese). 
-- 😄 Chatting is always welcome.
+- 😄 If you have some nice ideas or something related to talk, just reach me in any method.
